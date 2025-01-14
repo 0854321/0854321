@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+你好;Second+line+of+世界)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=你好世界;再见世界)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0854321)
 
